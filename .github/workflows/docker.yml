@@ -25,4 +25,4 @@ steps:
 
   - name: Push Docker image
     run: docker push marcosluiscoder/news-api
-```
+
